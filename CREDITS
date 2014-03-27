@@ -1,0 +1,16 @@
+This program references the following third party open source or other free download components. 
+The third party licensors of these components may provide additional license rights, 
+terms and conditions and/or require certain notices as described below. 
+
+jPasskit (https://github.com/bitzeche/jpasskit)
+The Apache Software License, Version 2.0 - http://trac.bitzeche.de/archiva/repository/release/de/brendamour/jpasskit/0.0.3/jpasskit-0.0.3.pom
+
+jstl 
+Licensed under Common Development and Distribution License (CDDL) version 1.0 + GNU General Public License (GPL) version 2 - https://glassfish.dev.java.net/public/CDDL+GPL.html
+
+JUnit (http://www.junit.org/)
+Licensed under Common Public License - v 1.0 - http://www.junit.org/license
+
+SLF4J (http://www.slf4j.org/)
+Licensed under MIT - http://www.slf4j.org/license.html 
+
