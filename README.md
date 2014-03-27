@@ -13,7 +13,7 @@ Clone the repo, `git clone https://github.com/SAP/cloud-passkit-demo`, or [downl
 Consequently, the provided sample will not run out-of-the-box. You would need to download/create the required certificate files up front. In order to make the provided test case run you'd need to:
 
 + create your *Certificates.p12* and store it in the [certs](/src/test/resources/certs) folder
-+ create the personalized *wwdr.pem" certificate store it in the [certs](/src/test/resources/certs) folder
++ create the personalized *wwdr.pem* certificate store it in the [certs](/src/test/resources/certs) folder
 + adjust the values in [pass.properties](/src/test/resources/pass.properties) according to your personal/corporate data
 
 
